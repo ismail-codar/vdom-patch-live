@@ -1,0 +1,25 @@
+{
+  "name": "vdom-patch-live",
+  "version": "1.0.0",
+  "description": "Automatic live patch for virtual dom libraries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zone.js",
+    "virtual",
+    "dom",
+    "patch",
+    "observable",
+    "render"
+  ],
+  "author": "ismail codar",
+  "license": "MIT",
+  "dependencies": {
+    "raf": "^3.0.0",
+    "snabbdom": "^0.2.1",
+    "virtual-dom": "^2.0.1",
+    "zone.js": "^0.5.1"
+  }
+}
